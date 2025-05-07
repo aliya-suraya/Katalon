@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Customer Care Ticketing Filter - Priority</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d1492f2-3b19-48d2-86b8-c4895cb031a5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ticketing</name>
+   <tag></tag>
+   <elementGuidId>b168c0cc-48f8-4018-bfda-fe49d28e1139</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#admin-ticketing > div.flex.items-center.truncate.space-x-5 > div.truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='admin-ticketing']/div/div)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Ticketing&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4bbe4e7-4c3e-4b81-a1b7-374f092337d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>truncate</value>
+      <webElementGuid>4324657d-a60d-434b-84f7-c220e3d5e176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ticketing</value>
+      <webElementGuid>b4f92bfb-a9cf-4311-a644-4323343d7fd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;max-h-full min-h-screen max-w-full bg-white text-gray-800 dark:bg-slate-900 dark:text-white&quot;]/div[2]/div[@class=&quot;flex h-screen overflow-hidden bg-gray-100 text-gray-800&quot;]/div[@class=&quot;hidden overflow-x-hidden border-r border-theme-200 shadow-sm dark:border-r-0 dark:border-theme-800 dark:shadow-lg md:flex md:flex-shrink-0&quot;]/div[@class=&quot;flex w-64 flex-col&quot;]/div[@class=&quot;flex h-0 flex-1 flex-col bg-black shadow-md&quot;]/div[@class=&quot;flex flex-1 flex-col overflow-y-auto&quot;]/nav[@class=&quot;flex-1 select-none space-y-3 bg-gray-900 px-2 py-4&quot;]/div[2]/div[@class=&quot;hidden space-y-1 divide-y-2 divide-slate-800 sm:block&quot;]/div[@class=&quot;select-none&quot;]/div[9]/a[@id=&quot;admin-ticketing&quot;]/div[@class=&quot;flex items-center truncate space-x-5&quot;]/div[@class=&quot;truncate&quot;]</value>
+      <webElementGuid>b3cce75c-cdcb-4672-bcc0-83c53cc0069c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='admin-ticketing']/div/div)[2]</value>
+      <webElementGuid>f26fc2a2-d1e4-465a-922a-0794d5428ddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price List'])[2]/following::div[3]</value>
+      <webElementGuid>9ebba658-ab26-4281-8574-53eac0a4857b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments'])[2]/following::div[6]</value>
+      <webElementGuid>811f2f8c-278f-40d5-905e-c080233c118b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[2]/preceding::div[1]</value>
+      <webElementGuid>17064682-82a7-4e3c-9c51-1a712f0e6fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HR'])[2]/preceding::div[5]</value>
+      <webElementGuid>a6c893e7-c24c-44bd-8e96-39a21a8ddf48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[9]/a/div/div</value>
+      <webElementGuid>c8d55eae-559e-4bc0-a7cb-82571c7af0d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ticketing' or . = 'Ticketing')]</value>
+      <webElementGuid>b3063610-21f6-4ff2-9275-114f4cf87ab2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

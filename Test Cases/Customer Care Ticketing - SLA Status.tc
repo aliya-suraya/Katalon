@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Customer Care Ticketing - SLA Status</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a59047b6-3ddc-4f5f-96b0-6905ca45e353</testCaseGuid>
+</TestCaseEntity>
