@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>New Test Suite</name>
+   <name>Customer Care Ticketing</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -12,24 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>3e4b02a4-9bc2-4e57-9125-7105b1815414</testSuiteGuid>
    <testCaseLink>
-      <guid>35e59af1-bd40-4229-babb-acfa9b9b412c</guid>
+      <guid>4f27e1f4-6219-40a2-bdf0-53992d4862a1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Body Analysis Link Creation Test</testCaseId>
+      <testCaseId>Test Cases/Customer Care Ticketing - SLA Status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f71f8177-42c0-40be-8978-04ae59975148</guid>
+      <guid>01a653f2-0bcd-486a-b5fa-df85e06e55cd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hair Analysis Link Creation Test</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>61c52c6a-206a-41b7-a574-1fc9eea840ca</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Skin Analysis Link Creation Test</testCaseId>
+      <testCaseId>Test Cases/Customer Care Ticketing Filter - Priority</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply Filters</name>
+   <tag></tag>
+   <elementGuidId>0e701c4a-ba13-4bc0-a08d-c653330bb5d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[28]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Apply Filters&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7a875a19-2aff-443c-83e2-0ef16163512c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7d2869dd-2f68-44e2-9d32-b4f5257ba011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>whitespace-nowrap inline-flex items-center space-x-2 rounded-md border border-transparent px-4 py-2 text-sm font-medium text-white shadow-sm focus:outline-none focus:ring-2 focus:ring-accent-300 bg-black bg-black</value>
+      <webElementGuid>610bb22e-af31-4560-955c-785ada54f12f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply Filters</value>
+      <webElementGuid>c877bb7a-7735-49a0-90a3-475530cad28e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;max-h-full min-h-screen max-w-full bg-white text-gray-800 dark:bg-slate-900 dark:text-white&quot;]/div[2]/div[@class=&quot;flex h-screen overflow-hidden bg-gray-100 text-gray-800&quot;]/div[@class=&quot;flex w-0 flex-1 flex-col overflow-hidden&quot;]/main[@class=&quot;flex-1 overflow-y-auto bg-gray-50 focus:outline-none&quot;]/div[@class=&quot;pb-20 sm:pb-0&quot;]/div[@class=&quot;sm:flex sm:h-[calc(100vh-56px)] sm:flex-row sm:bg-gray-50&quot;]/div[@class=&quot;w-full overflow-x-hidden&quot;]/main[@class=&quot;relative z-0 flex-1  pb-8&quot;]/div[@class=&quot;mx-auto w-full max-w-5xl space-y-3 px-4 py-2 pb-6 sm:px-6 sm:pt-3 lg:px-8 xl:max-w-full&quot;]/div[@class=&quot;grid sm:grid-cols-12 gap-2&quot;]/div[@class=&quot;sm:col-span-4 mt-4&quot;]/span[1]/button[@class=&quot;whitespace-nowrap inline-flex items-center space-x-2 rounded-md border border-transparent px-4 py-2 text-sm font-medium text-white shadow-sm focus:outline-none focus:ring-2 focus:ring-accent-300 bg-black bg-black&quot;]</value>
+      <webElementGuid>cac3a801-4915-4457-8f17-a53fb01232f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[28]</value>
+      <webElementGuid>bb3455dd-7f50-43de-be9d-a28abe6b1abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/following::button[1]</value>
+      <webElementGuid>c51f0a4b-c5c4-41f8-9edc-b586e000bc69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[7]/following::button[1]</value>
+      <webElementGuid>29f92c31-b924-4b0d-9431-a82d659ba00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::button[1]</value>
+      <webElementGuid>7d2b037f-383c-454d-b479-b96e2a9fbefd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/preceding::button[2]</value>
+      <webElementGuid>3b1c1783-6b53-4188-95d0-9d2f82e2a621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply Filters']/parent::*</value>
+      <webElementGuid>db331bab-6e92-416e-bba8-3e98c02823a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>9dcfbc9e-dde5-4cc4-a640-e9c0caf903f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Apply Filters' or . = 'Apply Filters')]</value>
+      <webElementGuid>481fe97c-366a-45b8-9afa-edddd582510d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

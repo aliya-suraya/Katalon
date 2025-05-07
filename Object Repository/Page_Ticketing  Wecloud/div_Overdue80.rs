@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Overdue80</name>
+   <tag></tag>
+   <elementGuidId>9b921699-8a6f-4529-81d8-dc61cfbe0caf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Overdue80&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a2d5ead-5b97-400b-95a6-b5b0c1fe48eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>overflow-hidden rounded-lg bg-white px-4 py-5 shadow sm:p-6</value>
+      <webElementGuid>e560d868-cd96-4b0a-927d-763b1bfa618b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Overdue80</value>
+      <webElementGuid>ac814dd5-ce22-433a-ae46-9526b2ab2402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;max-h-full min-h-screen max-w-full bg-white text-gray-800 dark:bg-slate-900 dark:text-white&quot;]/div[2]/div[@class=&quot;flex h-screen overflow-hidden bg-gray-100 text-gray-800&quot;]/div[@class=&quot;flex w-0 flex-1 flex-col overflow-hidden&quot;]/main[@class=&quot;flex-1 overflow-y-auto bg-gray-50 focus:outline-none&quot;]/div[@class=&quot;pb-20 sm:pb-0&quot;]/div[@class=&quot;sm:flex sm:h-[calc(100vh-56px)] sm:flex-row sm:bg-gray-50&quot;]/div[@class=&quot;w-full overflow-x-hidden&quot;]/main[@class=&quot;relative z-0 flex-1  pb-8&quot;]/div[@class=&quot;mx-auto w-full max-w-5xl space-y-3 px-4 py-2 pb-6 sm:px-6 sm:pt-3 lg:px-8 xl:max-w-full&quot;]/div[@class=&quot;mb-4&quot;]/dl[@class=&quot;grid grid-cols-12 gap-5 sm:grid-cols-5&quot;]/div[@class=&quot;overflow-hidden rounded-lg bg-white px-4 py-5 shadow sm:p-6&quot;]</value>
+      <webElementGuid>4d30a452-8983-4fa4-85ca-4dbaf71426c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed'])[1]/following::div[1]</value>
+      <webElementGuid>9ca3b45f-2e3b-4047-b84c-0ff567f266ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[1]/following::div[2]</value>
+      <webElementGuid>a93d7286-7b02-4bb5-b410-0454f1eccc21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priority'])[1]/preceding::div[1]</value>
+      <webElementGuid>d7ecb2e4-c46d-4e83-8d46-a99bfb2056b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dl/div[5]</value>
+      <webElementGuid>31ed00ac-1170-40ab-bf23-482a638dbda0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Overdue80' or . = 'Overdue80')]</value>
+      <webElementGuid>b89fa5c3-2168-4ac2-b24b-2cf4615dc8d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
